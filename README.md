@@ -20,6 +20,16 @@
 
 ---
 
+## 👩‍💻 Sobre mim
+
+Software Developer, em formação em Análise e Desenvolvimento de Sistemas, com experiência prática em desenvolvimento de aplicações web, integração de APIs, suporte a sistemas e soluções baseadas em Inteligência Artificial.
+
+Tenho desenvolvido aplicações que integram Large Language Models (LLMs), utilizando APIs de modelos de linguagem para criar soluções inteligentes, automatizar tarefas e aprimorar experiências de interação com usuários.
+
+Minha experiência profissional em TI também envolve monitoramento de aplicações, gerenciamento de incidentes, troubleshooting e suporte técnico. Atuo com sistemas de bilhetagem e controle de acesso, realizando configurações, atualizações, identificação de falhas e resolução de problemas. Também possuo experiência em manutenção de hardware, software e infraestrutura computacional.
+
+---
+
 ## 🛠️ Tecnologias
 
 <div align="center">
@@ -34,6 +44,7 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| 🤖 [**gerador-readme**](https://github.com/Leticiabarbosadev/gerador-readme) · [demo](https://gerador-readme-acxl.onrender.com/) | Aplicação que utiliza IA para gerar documentações README.md a partir do código-fonte de projetos, com experimentação e avaliação de sete versões de prompts. | Python · FastAPI · Groq |
 | 🤖 [**faq-assistente**](https://github.com/Leticiabarbosadev/faq-assistente) · [demo](https://faq-assistente.onrender.com/) | Assistente de atendimento com LLM que responde **apenas com base em um FAQ**. Interface de chat e **avaliação automática (16/16 casos)**. | Python · FastAPI · Groq |
 | 📚 [**gerenciamento-de-livros**](https://github.com/Leticiabarbosadev/gerenciamento-de-livros) | Sistema web de biblioteca: cadastro de livros e usuários, controle de estoque e histórico de empréstimos. | Python · Flask |
 | 🎮 [**Pomodoro-gamer**](https://github.com/Leticiabarbosadev/Pomodoro-gamer) | Timer Pomodoro inspirado em consoles portáteis, com visual neon, modo escuro/claro e animações. | HTML · CSS · JavaScript |
@@ -44,6 +55,7 @@
 ## 📫 Vamos conversar?
 
 Estou aberta a oportunidades e trocas de ideias sobre tecnologia e IA.
+
 Me encontre no [LinkedIn](https://www.linkedin.com/in/leticia-barbosa-borges).
 
 <div align="center">
@@ -51,6 +63,3 @@ Me encontre no [LinkedIn](https://www.linkedin.com/in/leticia-barbosa-borges).
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=100&section=footer" alt="Rodapé" />
 
 </div>
-
-
-
